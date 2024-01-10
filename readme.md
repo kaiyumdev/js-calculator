@@ -21,7 +21,7 @@ This is a basic calculator application built using HTML, CSS, and JavaScript. It
 
 ## Live Demo
 
-Check out the live link [js-calculator](https://yourusername.github.io/repositoryname).(https://js-calculator-1stm.vercel.app/)
+Check out the live link [js-calculator](https://js-calculator-1stm.vercel.app/)
 
 ## Technologies Used
 
