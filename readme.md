@@ -21,7 +21,18 @@ To use the calculator, simply open the `index.html` file in a web browser. The c
 
 ## Screenshots
 
-![Simple-JS-Calculator](https://js-calculator-1stm.vercel.app/)
+To include a clickable link to your live site directly in your README file, you can use the following Markdown syntax:
+
+markdown
+Copy code
+
+# Simple Calculator
+
+This is a basic calculator application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## Live Demo
+
+Check out the live link [js-calculator](https://yourusername.github.io/repositoryname).(https://js-calculator-1stm.vercel.app/)
 
 ## Technologies Used
 
