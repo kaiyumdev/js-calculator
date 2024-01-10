@@ -9,22 +9,11 @@ This is a basic calculator application built using HTML, CSS, and JavaScript. It
 - Multiplication
 - Division
 
-## Getting Started
-
-To use the calculator, simply open the `index.html` file in a web browser. The calculator interface will be displayed, and you can start performing calculations right away.
-
 ## Usage
 
 1. Enter numbers using the number buttons.
 2. Select the operation (+, -, \*, /) you want to perform.
 3. Press the "=" button to see the result.
-
-## Screenshots
-
-To include a clickable link to your live site directly in your README file, you can use the following Markdown syntax:
-
-markdown
-Copy code
 
 # Simple Calculator
 
