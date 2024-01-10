@@ -9,6 +9,10 @@ This is a basic calculator application built using HTML, CSS, and JavaScript. It
 - Multiplication
 - Division
 
+## Screenshots
+
+![Calculator Screenshot](images/js-calculator.png)
+
 ## Usage
 
 1. Enter numbers using the number buttons.
